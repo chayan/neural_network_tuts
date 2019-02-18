@@ -1,5 +1,5 @@
 # neural_network_tuts
-It's a simple feed-forward neural network built from scratch using only NumPy. I created this project as a tutorial for my study group
+A feed-forward NN built from scratch with NumPy and applied on MNIST dataset
 
 #### Project structure
 There are 2 modules namely layers and nn which contains handy layers like ReLu, SoftMax, Dense etc. and a simple feed-forward neural net. There is a jupyter notebook under scripts package which runs the neural net on MNIST dataset.
